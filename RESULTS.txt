@@ -1,0 +1,3 @@
+First Problem Answer: 3931283
+
+Second Problem Answer: There is not solution, the solvers I programmed couldt find it :(
